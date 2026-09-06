@@ -130,24 +130,8 @@ Additional builds, case studies, and technical write-ups are available on my por
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<!--
-  NOTE: The public github-readme-stats.vercel.app service is a free shared
-  instance run by volunteers. It frequently gets rate-limited or paused,
-  which is why these cards sometimes fail to load — it is not an issue
-  with this README. If the cards above stay blank, deploy your own free
-  instance (2 minutes, see comment below the section).
--->
-
-If the cards above don't render, the shared public instance is currently rate-limited/down (a known, recurring issue — not something wrong in this file). Fix: deploy your own free copy at vercel.com by importing the `anuraghazra/github-readme-stats` repo, then swap the domain in the two URLs above for your own `*.vercel.app` URL. It takes about two minutes and never goes down because only you use it.
-
----
+GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true" /> </p> <!-- Steps to get your own reliable instance (public one is often rate-limited): 1. Go to github.com/anuraghazra/github-readme-stats and click "Fork". 2. Go to vercel.com → sign in with GitHub → "Add New Project" → import your fork. 3. In the Vercel project's Environment Variables, add: PAT_1 = a GitHub Personal Access Token (Settings → Developer settings → Personal access tokens → generate one with no special scopes needed for public stats, or "repo" scope if you want private repo counts). 4. Deploy. Vercel gives you a URL like your-project-name.vercel.app. 5. Replace "github-readme-stats.vercel.app" in the two image URLs above with your own Vercel URL, and replace "YOUR_USERNAME" with your GitHub username. -->
 
 ## Connect
 
