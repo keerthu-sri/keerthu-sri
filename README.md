@@ -1,5 +1,8 @@
 <h1 align="center">Keerthana Sri D</h1>
-<h3 align="center">Full-Stack Developer · AI/ML Engineer · Data Science Researcher</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Data+Science+Researcher" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://keerthu-portfolio-13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -94,16 +97,34 @@ MERN-stack application with a server-side precision cron-job architecture and Cl
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true" />
 </p>
+
+<!--
+  NOTE: The public github-readme-stats.vercel.app service is a free shared
+  instance run by volunteers. It frequently gets rate-limited or paused,
+  which is why these cards sometimes fail to load — it is not an issue
+  with this README. If the cards above stay blank, deploy your own free
+  instance (2 minutes, see comment below the section).
+-->
+
+If the cards above don't render, the shared public instance is currently rate-limited/down (a known, recurring issue — not something wrong in this file). Fix: deploy your own free copy at vercel.com by importing the `anuraghazra/github-readme-stats` repo, then swap the domain in the two URLs above for your own `*.vercel.app` URL. It takes about two minutes and never goes down because only you use it.
 
 ---
 
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/keerthana-sri-d-99b753312"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:keerthanworkspace13@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://keerthu-portfolio-13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/keerthana-sri-d-99b753312" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=flat-square" height="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:keerthanworkspace13@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=flat-square" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://keerthu-portfolio-13.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=flat-square" height="28" />
+  </a>
 </p>
