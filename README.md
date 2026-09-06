@@ -24,47 +24,27 @@ Currently working on:
 
 ---
 
-## Tech Stack
+Tech Stack
 
-**Languages**
+Languages
 
-<p>
-<marquee behavior="scroll" direction="left" scrollamount="5">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,c" />
-</marquee>
-</p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=python" title="Python" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=mysql" title="SQL" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48" /> </marquee> </p>
 
-**Frontend & Mobile**
+Frontend & Mobile
 
-<p>
-<marquee behavior="scroll" direction="left" scrollamount="5">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,vite,flutter,tailwind" />
-</marquee>
-</p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=react" title="React.js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=angular" title="Angular" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=vite" title="Vite" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48" height="48" /> </marquee> </p>
 
-**Backend & APIs**
+Backend & APIs
 
-<p>
-<marquee behavior="scroll" direction="left" scrollamount="5">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
-</marquee>
-</p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=django" title="Django" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="48" height="48" /> </marquee> </p>
 
-**Databases & Cloud**
+Databases & Cloud
 
-<p>
-<marquee behavior="scroll" direction="left" scrollamount="5">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker,kubernetes" />
-</marquee>
-</p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=gcp" title="GCP Vertex AI" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" width="48" height="48" /> </marquee> </p>
 
-**AI/ML & GenAI**
+AI/ML & GenAI
 
-<p>
-<marquee behavior="scroll" direction="left" scrollamount="5">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface,opencv" />
-</marquee>
-</p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face" height="28" /> </marquee> </p>
 
 ---
 
@@ -131,7 +111,7 @@ Additional builds, case studies, and technical write-ups are available on my por
 ---
 
 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true" /> </p> <!-- Steps to get your own reliable instance (public one is often rate-limited): 1. Go to github.com/anuraghazra/github-readme-stats and click "Fork". 2. Go to vercel.com → sign in with GitHub → "Add New Project" → import your fork. 3. In the Vercel project's Environment Variables, add: PAT_1 = a GitHub Personal Access Token (Settings → Developer settings → Personal access tokens → generate one with no special scopes needed for public stats, or "repo" scope if you want private repo counts). 4. Deploy. Vercel gives you a URL like your-project-name.vercel.app. 5. Replace "github-readme-stats.vercel.app" in the two image URLs above with your own Vercel URL, and replace "YOUR_USERNAME" with your GitHub username. -->
+<p align="center"> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api?username=keerthu-sri&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=tokyonight&hide_border=true" /> </p> <!-- Steps to get your own reliable instance (public one is often rate-limited): 1. Go to github.com/anuraghazra/github-readme-stats and click "Fork". 2. Go to vercel.com → sign in with GitHub → "Add New Project" → import your fork. 3. In the Vercel project's Environment Variables, add: PAT_1 = a GitHub Personal Access Token (Settings → Developer settings → Personal access tokens → generate one with no special scopes needed for public stats, or "repo" scope if you want private repo counts). 4. Deploy. Vercel gives you a URL like your-project-name.vercel.app. 5. Replace "github-readme-stats.vercel.app" in the two image URLs above with your own Vercel URL, and replace "YOUR_USERNAME" with your GitHub username. -->
 
 ## Connect
 
