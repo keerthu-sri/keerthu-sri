@@ -44,7 +44,11 @@ Databases & Cloud
 
 AI/ML & GenAI
 
-<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://tse1.mm.bing.net/th/id/OIP.Bz8NJZhyjcCKXPEpSPQD4wHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" title="Hugging Face" height="28" /><img src="https://viso.ai/wp-content/uploads/2024/03/mlflow.jpg" title="Mlflow" height="28" /> </marquee> </p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face" height="28" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" title="MLflow" height="28" /> </marquee> </p>
+
+DevOps, CI/CD & Project Management
+
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28" /> <img src="https://img.shields.io/badge/MS_Planner-7719AA?style=flat-square&logo=microsoft&logoColor=white" title="Microsoft Planner" height="28" /> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white" title="Scrum" height="28" /> </marquee> </p>
 
 ---
 
