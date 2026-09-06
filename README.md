@@ -14,7 +14,7 @@
 
 ## About
 
-M.Tech Integrated CSE (Data Science) student at SRM Institute of Science and Technology (CGPA: 9.76). Full-stack and AI/ML developer focused on building intelligent, production-grade systems — from retrieval-augmented generation pipelines to scalable cloud architectures.
+M.Tech Integrated CSE (Data Science) student at SRM Institute of Science and Technology (CGPA: 9.77). Full-stack and AI/ML developer focused on building intelligent, production-grade systems — from retrieval-augmented generation pipelines to scalable cloud architectures.
 
 Currently working on:
 
@@ -75,7 +75,7 @@ Currently working on:
 <td width="50%" valign="top">
 
 ### SKINOVA
-**AI-Based Preventive Skin Intelligence System**
+**AI-Based Preventive Acne Intelligence System**
 
 Multi-model AI pipeline utilizing YOLO, ViT, and TFT, with Llama-based GenAI and a DynamoDB backend.
 
@@ -121,12 +121,12 @@ Additional builds, case studies, and technical write-ups are available on my por
 
 | Repository | Description | Stack |
 |---|---|---|
-| aws_resume_parser | Resume screening & ATS platform | TypeScript |
-| memory_capsule | Server-side precision cron-job MERN app | TypeScript |
+| aws_resume_parser | Resume screening & ATS platform | AWS & TypeScript |
+| memory_capsule | Server-side precision cron-job MERN app | MERN - TypeScript |
+| noteflow | Real-time collaborative note-taking with CRDT sync | MERN - TypeScript |
+| skinova | AI-based preventive skin intelligence system | AIML - Llama - React Native |
+| Foundry-data-engineering-pipeline | Data ingestion and engineering pipeline | Python- Streamlit |
 | Neighbourhood_tool_management_system | Full-stack tool lending/borrowing platform | React (Vite) + Django |
-| noteflow | Real-time collaborative note-taking with CRDT sync | TypeScript |
-| skinova | AI-based preventive skin intelligence system | HTML |
-| Foundry-data-engineering-pipeline | Data ingestion and engineering pipeline | Python |
 
 ---
 
