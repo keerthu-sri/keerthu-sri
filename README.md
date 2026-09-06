@@ -1,7 +1,7 @@
 <h1 align="center">Keerthana Sri D</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Data+Science+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=FCD299&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Data+Science+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
