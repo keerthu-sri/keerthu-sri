@@ -44,7 +44,7 @@ Databases & Cloud
 
 AI/ML & GenAI
 
-<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://w7.pngwing.com/pngs/86/980/png-transparent-hugging-face-logo-tech-companies.png" title="Hugging Face" height="28" /> </marquee> </p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://tse1.mm.bing.net/th/id/OIP.Bz8NJZhyjcCKXPEpSPQD4wHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" title="Hugging Face" height="28" /><img src="https://viso.ai/wp-content/uploads/2024/03/mlflow.jpg" title="Mlflow" height="28" /> </marquee> </p>
 
 ---
 
