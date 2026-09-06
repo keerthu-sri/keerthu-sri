@@ -44,7 +44,7 @@ Databases & Cloud
 
 AI/ML & GenAI
 
-<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face" height="28" /> </marquee> </p>
+<p> <marquee behavior="scroll" direction="left" scrollamount="5"> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="48" height="48" /> <img src="https://w7.pngwing.com/pngs/86/980/png-transparent-hugging-face-logo-tech-companies.png" title="Hugging Face" height="28" /> </marquee> </p>
 
 ---
 
@@ -114,6 +114,7 @@ GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api?username=keerthu-sri&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=tokyonight&hide_border=true" /> </p> <!-- Steps to get your own reliable instance (public one is often rate-limited): 1. Go to github.com/anuraghazra/github-readme-stats and click "Fork". 2. Go to vercel.com → sign in with GitHub → "Add New Project" → import your fork. 3. In the Vercel project's Environment Variables, add: PAT_1 = a GitHub Personal Access Token (Settings → Developer settings → Personal access tokens → generate one with no special scopes needed for public stats, or "repo" scope if you want private repo counts). 4. Deploy. Vercel gives you a URL like your-project-name.vercel.app. 5. Replace "github-readme-stats.vercel.app" in the two image URLs above with your own Vercel URL, and replace "YOUR_USERNAME" with your GitHub username. -->
 
 ## Connect
+**Looking for opportunities to connect with real world systems. Interested in internships and jobs**
 
 <p align="center">
   <a href="https://linkedin.com/in/keerthana-sri-d-99b753312" target="_blank">
