@@ -133,8 +133,8 @@ Additional builds, case studies, and technical write-ups are available on my por
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api?username=keerthu-sri&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-rose.vercel.app/api/top-langs/?username=keerthu-sri&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <!--
