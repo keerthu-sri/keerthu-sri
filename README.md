@@ -70,14 +70,50 @@ Currently working on:
 
 ## Featured Projects
 
-**SKINOVA — AI-Based Preventive Skin Intelligence System**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SKINOVA
+**AI-Based Preventive Skin Intelligence System**
+
 Multi-model AI pipeline utilizing YOLO, ViT, and TFT, with Llama-based GenAI and a DynamoDB backend.
 
-**AI-Powered Resume Parser & ATS**
-Intelligent screening platform built with FastAPI, Sentence Transformers, TF-IDF, and Tesseract OCR, with MLflow tracking and CI/CD automation.
+`YOLO` `ViT` `TFT` `Llama` `DynamoDB`
 
-**Digital Memory Capsule**
-MERN-stack application with a server-side precision cron-job architecture and Cloudinary media optimization.
+</td>
+<td width="50%" valign="top">
+
+### AI-Powered Resume Parser & ATS
+**Intelligent Screening Platform**
+
+Built with FastAPI and Sentence Transformers, TF-IDF, and Tesseract OCR, with MLflow tracking and CI/CD automation.
+
+`FastAPI` `Sentence Transformers` `TF-IDF` `Tesseract OCR` `MLflow` `CI/CD`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Digital Memory Capsule
+**MERN-Stack Application**
+
+Server-side precision cron-job architecture with Cloudinary media optimization.
+
+`MongoDB` `Express` `React` `Node.js` `Cloudinary`
+
+</td>
+<td width="50%" valign="top">
+
+### Explore More
+Additional builds, case studies, and technical write-ups are available on my portfolio.
+
+[View Portfolio →](https://keerthu-portfolio-13.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
